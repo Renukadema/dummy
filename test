@@ -1,0 +1,18 @@
+git clone
+git add
+git commit
+git push
+git pull
+git merge
+git reset
+git rebase
+git diff
+git log
+git log --oneline
+git show
+git rm
+git branch
+git branch -a
+git checkout branchname
+git branch -d branchname
+
